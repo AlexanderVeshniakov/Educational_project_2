@@ -25,11 +25,6 @@
 Т.к. в колонке Q29 указан промежуток, то возьми среднее значение из промежутка. 
 Средние доход **округли до целого.**
 
-### 7 
-
-Показать популярность билиотек для визуализации данных в различных странах.
-
-
 _______________________________________________________________________________________________________
 
 ### Load Data
@@ -58,7 +53,3 @@ Recognize the top 5 programming languages ​ ​ that regularly use "Data Scien
 Find out the average income among 'Data Scientist' specialists and the average income among 'Machine Learning/MLops Engineer'
 Since there is a gap in the Q29 column, take the average value from the gap.
 Average income ** rounded to a whole. **
-
-### 7
-
-Show the popularity of biliotecs for data visualization in various countries.
