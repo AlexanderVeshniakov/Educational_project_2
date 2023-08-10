@@ -32,7 +32,7 @@
 
 _______________________________________________________________________________________________________
 
-# # # Load Data
+### Load Data
 
 Use (https://www.kaggle.com/datasets?search=kaggle_survey_2022_responses.csv) to work on the task.
 Download the file with dataset and put it in the datasets folder
@@ -46,7 +46,7 @@ Count the proportion of women among Russian survey participants who are no longe
 
 
 ### 3
-Find the average time to complete the survey in * * minutes * *.
+Find the average time to complete the survey in ** minutes **.
 
 ### 4
 Bring out the top 3 educational courses that the respondents indicated.
@@ -57,7 +57,7 @@ Recognize the top 5 programming languages ​ ​ that regularly use "Data Scien
 ### 6
 Find out the average income among 'Data Scientist' specialists and the average income among 'Machine Learning/MLops Engineer'
 Since there is a gap in the Q29 column, take the average value from the gap.
-Average income * * rounded to a whole. * *
+Average income ** rounded to a whole. **
 
 ### 7
 
