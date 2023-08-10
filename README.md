@@ -6,8 +6,7 @@
 (https://www.kaggle.com/datasets?search=kaggle_survey_2022_responses.csv).
 
 ### 1
-Узнай самый часто встречаемый возраст респондентов:
- - Cамый часто встречаемый возраст 18-21, количество повторений 4559.
+Узнай самый часто встречаемый возраст респондентов
 
 ### 2
 Посчитай долю женщин среди русских участников опроса, которые уже не студенты
@@ -39,12 +38,12 @@ Use (https://www.kaggle.com/datasets?search=kaggle_survey_2022_responses.csv) to
 Download the file with dataset and put it in the datasets folder
 
 ### 1
-Find out the most common age of respondents:
-- The most common age is 18-21, the number of repetitions is 4559.
+Find out the most common age of respondents
+
 
 ### 2
 Count the proportion of women among Russian survey participants who are no longer students:
--
+
 
 ### 3
 Find the average time to complete the survey in * * minutes * *.
